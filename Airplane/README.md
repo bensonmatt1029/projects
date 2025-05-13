@@ -7,5 +7,5 @@ Principles.
 
 [Demonstration]()
 
-# This project is currently in progress
+# This project is currently in progress. Completion will be by July 23rd, 2025.
 # Stay tuned...
