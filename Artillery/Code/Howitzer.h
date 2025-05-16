@@ -1,3 +1,12 @@
+/**********************************************************************
+ * Header File:
+ *    HOWITZER
+ * Author:
+ *    Matthew Benson
+ * Summary:
+ *    Everything we need to know about a howitzer (aka the gun)
+ ************************************************************************/
+
 #pragma once
 
 #include <list>
