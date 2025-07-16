@@ -5,7 +5,9 @@
 - Developed a design document that encompasses each class and models the interactions using correct Software Design
 Principles.
 
-[Demonstration]()
+[Demonstration](https://vimeo.com/1101905799?share=copy)
 
-# This project is currently in progress. Completion will be by July 23rd, 2025.
-# Stay tuned...
+Sources
+
+* [Specifications of Aircraft](https://www.boeing.com/commercial/737ng#Overview)
+* [Physics](https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/dynamicsofflight.html)
